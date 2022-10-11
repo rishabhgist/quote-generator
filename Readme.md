@@ -1,6 +1,3 @@
 # Quote Generator
-* stack:{
-    html,
-    css,
-    javascript
-}
+* This is simple random quote generator webpage using HTML, CSS, JavaScript. 
+* 
