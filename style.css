@@ -68,6 +68,12 @@ button:active{
   transform: translate(0, 0.3rem);
   box-shadow: 0 0.1rem rgba(225, 225, 255, 0.65);
 }
+.twitter-button:hover{
+  color: #38a1f3;
+}
+.fa-twitter{
+  font-size: 1.5rem;
+}
 /* Media Query */
 
 @media screen and (max-width: 1000px){
