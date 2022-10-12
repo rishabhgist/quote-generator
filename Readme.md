@@ -3,4 +3,4 @@
 * Random Quote API - https://goquotes.docs.apiary.io
 * Font - https://fonts.google.com/specimen/Montserrat
 * Background - https://heropatterns.com/
-* Preview - 
+* Preview - http://rishabhgist.com/assets/quote-generator/
