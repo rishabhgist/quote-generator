@@ -3,6 +3,6 @@
 * Random Quote API - https://goquotes.docs.apiary.io
 * Font - https://fonts.google.com/specimen/Montserrat
 * Background - https://heropatterns.com/
-* Preview - https://rishabhgist.com/assets/quote-generator/
+* Preview - https://rishabhgist.com/demo/quote-generator/
 ## 
-<img src="https://rishabhgist.com/assets/quote-generator/bg.JPG" alt="Preview"/>
+<img src="https://rishabhgist.com/demo/quote-generator/bg.JPG" alt="Preview"/>
